@@ -80,7 +80,7 @@ These categories dominated transaction counts and suggest areas for targeted cam
 ## 🔗 Live Demo & Report
 
 Explore the full interactive dashboard and visuals here:  
-👉 [GitHub Repository Link or Power BI Service Link]
+👉 [[(https://github.com/SeldaBayman/Istanbul_Mall_Data_Analysis)]
 
 
 
